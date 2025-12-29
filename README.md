@@ -42,13 +42,16 @@ interests:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -69,41 +72,20 @@ interests:
 
 ---
 
-## 💼 Projects
-
-### 🔥 Featured Projects
-
-#### 1. 📊 **ML Project** *(In Progress)*
-> Building machine learning models for [Add your project description]
-- **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy
-- **Features:** [Add key features]
-
-#### 2. 🌐 **MERN Stack Application** *(In Progress)*
-> Full-stack web application using MongoDB, Express, React, and Node.js
-- **Tech Stack:** MongoDB, Express.js, React, Node.js
-- **Features:** [Add key features]
-
-#### 3. 📈 **Data Analysis Project**
-> Analyzing and visualizing data to extract meaningful insights
-- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-- **Features:** [Add key features]
-
-<!-- Add more projects here -->
-
 ---
 
 ## 🏆 Achievements
 
-- 🎯 Solving **DSA problems** daily on coding platforms
-- 💡 Working on **ML and Data Science** projects
-- 🚀 Building expertise in **MERN Stack**
-- 📚 Continuous learner in software development
-
-<!-- Add your specific achievements:
-- 🥇 Won 1st prize at [Competition Name]
-- 🏅 Competed with 60+ teams at [Event Name]
-- ⭐ [Other achievements]
--->
+- �️ **GitHub Pull Shark** - Achieved GitHub Pull Shark badge
+- 🎯 **YOLO Badge** - Earned YOLO achievement on GitHub
+- 📊 **206+ Contributions** - Made 206+ contributions in 2025
+- ⭐ **1 Star Project** - ICE-Cream repository earned community recognition
+- 💻 **16 Public Repositories** - Built and maintained diverse projects
+- 🤝 **Open Source Contributor** - 16 commits to InvigilateX-AI project
+- 🚀 **Active Developer** - Consistent contributions throughout December 2025
+- 🌐 **Live Projects** - Multiple deployed applications on Vercel
+- 💡 Working on **ML and AI** projects with real-world applications
+- 📚 Continuous learner mastering **MERN Stack** and **Data Science**
 
 ---
 
@@ -121,18 +103,26 @@ interests:
 
 ---
 
-## 🔥 Coding Stats
+## 🔥 Activity & Contributions
 
 <div align="center">
 
+### 📈 Recent Activity (December 2025)
+
+**21 Commits** across 2 repositories  
+**2 New Repositories** created  
+**16 Commits** to InvigilateX-AI  
+**5 Commits** to QuickRides
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gulshan36&theme=react-dark&hide_border=true&area=true)](https://github.com/Gulshan36)
+
 ### 💪 Problem Solving Journey
 
-<!-- Update these with your actual stats -->
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-Solving_DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-Active-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Learning-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
-**Total Problems Solved: [Add your count]+**
+**Continuously improving problem-solving skills!**
 
 </div>
 
@@ -143,9 +133,11 @@ interests:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-gulshan311604@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulshan311604@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulshan36)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulshan-kumar-99489a250/)
+[![GitHub](https://img.shields.io/badge/GitHub-Gulshan36-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulshan36)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gulshan-two.vercel.app/)
+
+**📊 Total Contributions:** 206+ in 2025 | **📦 Repositories:** 16 | **⭐ Stars Earned:** 1
 
 </div>
 
