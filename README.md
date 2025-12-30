@@ -92,12 +92,15 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gulshan36&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshan36&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gulshan36&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gulshan36&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshan36&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gulshan36&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
